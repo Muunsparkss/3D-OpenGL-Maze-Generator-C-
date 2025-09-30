@@ -38,7 +38,7 @@ It generates a perfect maze procedurally and lets you explore it in first-person
    vcpkg install glfw3 glm
 
 3. Clone this repo:
-   git clone https://github.com/yourusername/openGL-maze.git
+   git clone https://github.com/Muunsparkss/3D-OpenGL-Maze-Generator-C-.git
    cd openGL-maze
 
 4. Configure and build:
